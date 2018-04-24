@@ -4,7 +4,7 @@
 
 Ini adalah contoh source code yang memungkinkan aplikasi Android mengakses data yang ada di database MySQL.
 
-Aplikasi ini ditulis menggunakan PHP 7 dan dijalankan pada web server. Source code aplikasi ini digunakan pada buku Mudah Membuat dan Berbisnis Aplikasi Android dengan Android Studio yang ditulis oleh Yudha Yudhanto dan Ardhi Wijayanto. Buku tersebut dapat diperoleh di toko buku [Gramedia](https://www.gramedia.com/products/mudah-membuat-dan-berbisnis-aplikasi-android-dengan-android-studio) ataupun toko buku lainnya.
+Aplikasi ini ditulis menggunakan PHP 7 dan dijalankan pada web server. Source code aplikasi ini digunakan pada buku **Mudah Membuat dan Berbisnis Aplikasi Android dengan Android Studio** yang ditulis oleh [Yudha Yudhanto](http://rumahstudio.com/) dan [Ardhi Wijayanto](http://senengcoding.blogspot.co.id/). Buku tersebut dapat diperoleh di toko buku [Gramedia](https://www.gramedia.com/products/mudah-membuat-dan-berbisnis-aplikasi-android-dengan-android-studio) ataupun toko buku lainnya.
 
 ## Yang dibutuhkan untuk menjalankan aplikasi ini
 
